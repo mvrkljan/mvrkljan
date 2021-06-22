@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Full stack developer, focusing on Elixir/Phoenix and Ember.js/JS with lots of experience in Laravel/PHP.
+
+Currently [freelancing](https://www.inqui.io) and lately worked on:
+- [BBUK Broadband Speedtest](https://www.broadbandspeedtest.org.uk),
+- [BBUK Broadband Providers](https://www.broadbandproviders.co.uk).
+
 <!--
 **mvrkljan/mvrkljan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
